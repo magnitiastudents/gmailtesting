@@ -6,6 +6,8 @@ public class Test1 {
 		
 		System.out.println("Hi");
 		System.out.println("hello");
+		System.out.println("Welcome All");
+		//updated the testcase
 
 	}
 
